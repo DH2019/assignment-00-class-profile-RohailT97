@@ -1,0 +1,18 @@
+# Reflection
+
+Respond to each of the questions below with a carefully thought out reflection on the assignment.
+
+## Question 1
+#### In this assignment, we used your user input to construct a small website composed of flipping cards. Can you think of a more interesting use for this basic layout? The use you describe should serve some pedagogical or research-oriented purpose for historians or humanists
+
+This sort of format being very useful for the presentation of the audio-visual material. If an individual is presenting a website like this as part of a larger project, the flipping cards can be a good way of presenting information that may not necessarily fit in well with the body of the research, or might be best suited to a separate section so as to not interfere with the flow of the research. If, for example, one was to present research about the life of a famous leader, the flipping card format could be a good way to collect video or audio clips to give readers a snapshot of some of their notable moments. In this way, information can be presented to the audience in a way that creates a sense of immersion with the research.
+
+## Question 2
+#### This assignment asks you all to perform a certian amount of work (describing yourselves) in order to improve a project (the course roster website). What responsibilities does the "researcher" (in this case, your teacher) have to the participants (you)? What rights do or should the participants have to the end product? 
+
+This website is created based on a understanding between the two parties. The researcher has been granted permission by the participants to share select information they have approved of in a manner they have been previously informed of. The researcher must utilize the data they obtain in only the manner they have agreed upon. Any action that goes beyond that agreement, be it the presentation of data that the participants might not have approved of or distribution through a medium the participants were not previously aware of, or any other action along such lines, would constitute a breach of that agreement and, I believe, should only be done if the researcher has followed up with the participants and gained approval for further use of their data. The participants have a right to their privacy and the researcher is obligated to provide them a copy of the final product, allowing them to see how exactly it is their data is used.
+
+## Question 3
+#### Information in each student record was provided as a series of "fields", that is, discrete units of information separated from each other. In the use you describe above, what fields would you need to provide for each record? Can you think of any limitations or obstacles that the use of this kind of data structure imposes on your project?
+
+In the use I described, the fields can be an efficient way to document the biographical details of the events presented. The where and when are essential pieces of information to include, making "date" and "location" fields very necessary. The real challenge arises when one attempts to re-integrate the section into the larger project. For the audience to truly understand the significance of the video or audio clip in question, they must be able to understand its significance in the life of the person under study. Such information can be nuanced and complicated, and given that the flipping card format is suited more toward quick, concise information, it may not be able to present such complicated contextual information effectively. As a result, keeping this section separate from the primary body of research has its tradeoffs.
